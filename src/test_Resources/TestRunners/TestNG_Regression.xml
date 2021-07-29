@@ -8,8 +8,6 @@
 		<classes>
 			<class name="com.OpenSource.Tests.LoginPageTest" />
 			<class name="com.OpenSource.Tests.AccountsPageTest" />
-
-
 		</classes>
 	</test>
 </suite> 
